@@ -1,0 +1,172 @@
+[
+  {
+    "_name": "Admin",
+    "_hp": 120,
+    "_max_hp": 300,
+    "_lvl": 1,
+    "_lvl_points": 59,
+    "_gold": 82447,
+    "_current_weapon": {
+      "_name": "Excalibur",
+      "_id": 18,
+      "_dmg": {
+        "Item1": 500,
+        "Item2": 800
+      },
+      "_crit_chance": 15,
+      "_lvl": 10,
+      "_price": 10000,
+      "_sell_price": 3000
+    },
+    "_current_armor": {
+      "_name": "A Legendary Armor",
+      "_id": 28,
+      "_defence": 50,
+      "_max_hp_bonus": 200,
+      "_crit_chance": 15,
+      "_lvl": 10,
+      "_price": 7000,
+      "_sell_price": 2100
+    },
+    "_weapon_inventory": [
+      {
+        "_name": "Wooden Stick",
+        "_id": 1,
+        "_dmg": {
+          "Item1": 15,
+          "Item2": 25
+        },
+        "_crit_chance": 5,
+        "_lvl": 1,
+        "_price": 100,
+        "_sell_price": 30
+      }
+    ],
+    "_armor_inventory": [
+      {
+        "_name": "Rookie Outfit",
+        "_id": 2,
+        "_defence": 10,
+        "_max_hp_bonus": 0,
+        "_crit_chance": 0,
+        "_lvl": 1,
+        "_price": 100,
+        "_sell_price": 30
+      }
+    ],
+    "_food": [
+      {
+        "_name": "Apple",
+        "_id": 30,
+        "_recovering_points": 15,
+        "_price": 35,
+        "_quantity": 36,
+        "_lvl": 1,
+        "_inner_food": null
+      },
+      {
+        "_name": "Pie",
+        "_id": 33,
+        "_recovering_points": 100,
+        "_price": 150,
+        "_quantity": 2,
+        "_lvl": 1,
+        "_inner_food": null
+      },
+      {
+        "_name": "Grapes",
+        "_id": 34,
+        "_recovering_points": 5,
+        "_price": 10,
+        "_quantity": 19,
+        "_lvl": 1,
+        "_inner_food": null
+      },
+      {
+        "_name": "Cookie",
+        "_id": 31,
+        "_recovering_points": 30,
+        "_price": 60,
+        "_quantity": 5,
+        "_lvl": 1,
+        "_inner_food": null
+      }
+    ]
+  },
+  {
+    "_name": "Stas",
+    "_hp": 42,
+    "_max_hp": 100,
+    "_lvl": 2,
+    "_lvl_points": 25,
+    "_gold": 320,
+    "_current_weapon": {
+      "_name": "Stone Axe",
+      "_id": 10,
+      "_dmg": {
+        "Item1": 20,
+        "Item2": 35
+      },
+      "_crit_chance": 5,
+      "_lvl": 2,
+      "_price": 280,
+      "_sell_price": 60
+    },
+    "_current_armor": {
+      "_name": "Rookie Outfit",
+      "_id": 2,
+      "_defence": 10,
+      "_max_hp_bonus": 0,
+      "_crit_chance": 0,
+      "_lvl": 1,
+      "_price": 100,
+      "_sell_price": 30
+    },
+    "_weapon_inventory": [],
+    "_armor_inventory": [],
+    "_food": [
+      {
+        "_name": "Apple",
+        "_id": 30,
+        "_recovering_points": 15,
+        "_price": 35,
+        "_quantity": 2,
+        "_lvl": 1,
+        "_inner_food": null
+      }
+    ]
+  },
+  {
+    "_name": "Test",
+    "_hp": 115,
+    "_max_hp": 115,
+    "_lvl": 2,
+    "_lvl_points": 50,
+    "_gold": 80,
+    "_current_weapon": {
+      "_name": "Stone Axe",
+      "_id": 10,
+      "_dmg": {
+        "Item1": 20,
+        "Item2": 35
+      },
+      "_crit_chance": 5,
+      "_lvl": 2,
+      "_price": 280,
+      "_sell_price": 60
+    },
+    "_current_armor": {
+      "_name": "Archer\u0027s Outfit",
+      "_id": 21,
+      "_defence": 10,
+      "_max_hp_bonus": 15,
+      "_crit_chance": 5,
+      "_lvl": 3,
+      "_price": 400,
+      "_sell_price": 120
+    },
+    "_weapon_inventory": [],
+    "_armor_inventory": [],
+    "_food": []
+  }
+]

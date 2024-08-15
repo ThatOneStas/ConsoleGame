@@ -1,0 +1,14 @@
+C:\Users\Cтас\source\repos\CSexam\CSexam\bin\Debug\net8.0\CSexam.exe
+C:\Users\Cтас\source\repos\CSexam\CSexam\bin\Debug\net8.0\CSexam.deps.json
+C:\Users\Cтас\source\repos\CSexam\CSexam\bin\Debug\net8.0\CSexam.runtimeconfig.json
+C:\Users\Cтас\source\repos\CSexam\CSexam\bin\Debug\net8.0\CSexam.dll
+C:\Users\Cтас\source\repos\CSexam\CSexam\bin\Debug\net8.0\CSexam.pdb
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.AssemblyInfoInputs.cache
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.AssemblyInfo.cs
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.csproj.CoreCompileInputs.cache
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.dll
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\refint\CSexam.dll
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.pdb
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\CSexam.genruntimeconfig.cache
+C:\Users\Cтас\source\repos\CSexam\CSexam\obj\Debug\net8.0\ref\CSexam.dll
